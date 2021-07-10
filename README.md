@@ -1,2 +1,2 @@
 # datasciencecoursera
-TLB GitHib Screenshot_JHU
+TLB GitHub Screenshot_JHU
